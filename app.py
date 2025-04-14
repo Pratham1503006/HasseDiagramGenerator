@@ -4,8 +4,7 @@ import matplotlib
 matplotlib.use('Agg')  # Set the backend to non-interactive Agg
 import matplotlib.pyplot as plt
 from Hasse import HasseDiagram
-import pandas as pd
-import time
+
 import numpy as np
 
 # Import page modules
